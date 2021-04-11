@@ -79,3 +79,12 @@ leaving it to starve to death.
 #### . The Argentavis had a wingspan of 23 feet. 
 #### . To fly the argentavis used upward gusts of wind from cliffs to keep itself airborne.
 #### . The Argentavis had hollow bones filled with air to lighten up the argentavis enough to fly due to the immense weight of the argentavis.
+
+## References, References, References!
+
+[Here](https://www.thoughtco.com/overview-of-argentavis-1093574)
+https://en.wikipedia.org/wiki/Argentavis
+https://fossil.fandom.com/wiki/Argentavis
+http://news.bbc.co.uk/2/hi/science/nature/6262740.stm 
+https://notexactlyrocketscience.wordpress.com/2007/07/08/argentavis-the-largest-flying-bird-was-a-master-glider/
+
