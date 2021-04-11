@@ -46,6 +46,6 @@ The argentavis adapted to the Argentinian environment as shown by the argentavis
 This is quite useful for travel in Argentina because they could climb up mountains with ease and weave through the dense argentinian forests.
 They were also built so they could travel long distances on land, unlike most birds which were and still are built more for air travel.
 
-![destination-map-argentina](https://user-images.githubusercontent.com/82337435/114319107-08716b00-9ade-11eb-8cec-1c5dd9aa547e.png)
+![download (2)](https://user-images.githubusercontent.com/82337435/114319134-2343df80-9ade-11eb-88b9-e058b692a54b.jpeg)
 
 ![download (1)](https://user-images.githubusercontent.com/82337435/114319046-c5af9300-9add-11eb-9640-8378d5eef0f0.jpeg)
