@@ -61,3 +61,11 @@ The argentavis due to its size cannot fly without gliding and without flying it 
 leaving it to starve to death.
 
 ![chart_time_periods_cenozoic_456](https://user-images.githubusercontent.com/82337435/114319327-f643fc80-9ade-11eb-8b35-cdd3f0dae277.gif)
+
+## Argentavis Fossils. 
+
+ 4 fossils found throughout Argentina though there were other fossils.
+ Two fossils were found at the Andalhualá Formation near Catamarca in Valle de Santa Maria in the foothills of the Andes.
+ A third was found in the Epecuén Formation, Carhué. Lastly  A fourth was found near Salinas Grandes de Hidalgo in the Argentinean pampas.
+ 
+ ![Mexico_San_Luis_Potosi_Salinas_location_map svg](https://user-images.githubusercontent.com/82337435/114319606-25a73900-9ae0-11eb-8ed7-43a0c3851ec3.jpg)
