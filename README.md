@@ -31,3 +31,11 @@ this up is the fact that animals of the argentavis size live to that age.
 
 ### The Argentavis Lifestyle
 
+There’s not much known about the day to day life of the Argentavis but this is the extent that is known.
+The argentavis would most likely fly around in search for rodents, animal babies, and other small animals. They were also known to live in South America. 
+They required roughly 10 pounds of meat every day so that would most likely spend a lot of time trying to suffice that need.
+They have a need, a need for meat! (It was bad quit your hate)
+
+![9578475338050616](https://user-images.githubusercontent.com/82337435/114318869-edeac200-9adc-11eb-9e6e-05521c5481ce.jpg)
+
+## All about the Argentavis’ habitat.
