@@ -49,3 +49,15 @@ They were also built so they could travel long distances on land, unlike most bi
 ![download (2)](https://user-images.githubusercontent.com/82337435/114319134-2343df80-9ade-11eb-88b9-e058b692a54b.jpeg)
 
 ![download (1)](https://user-images.githubusercontent.com/82337435/114319046-c5af9300-9add-11eb-9640-8378d5eef0f0.jpeg)
+
+## Timeline and Extinction
+
+There isn’t much known about when the argentavis existed but here are the things I could find.
+It existed sometime in the Miocene Period 6 million years ago (though it could be older).
+Furthermore the only clue as to what led it to go extinct is the fact the bird had trouble lifting itself off the ground.
+Because of its immense size it would have had to sort of “taxi” like an airplane just to lift off.
+Even if it successfully got itself off the ground it would have to be lucky enough to catch an upward air current so it could glide.
+The argentavis due to its size cannot fly without gliding and without flying it would be a good deal harder for the argentavis to find food,
+leaving it to starve to death.
+
+![chart_time_periods_cenozoic_456](https://user-images.githubusercontent.com/82337435/114319327-f643fc80-9ade-11eb-8b35-cdd3f0dae277.gif)
