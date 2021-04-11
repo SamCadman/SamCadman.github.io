@@ -71,3 +71,11 @@ leaving it to starve to death.
  ![Mexico_San_Luis_Potosi_Salinas_location_map svg](https://user-images.githubusercontent.com/82337435/114319606-25a73900-9ae0-11eb-8ed7-43a0c3851ec3.jpg) ![1200px-Ubicación_de_Santa_María_del_Valle_en_la_Provincia_de_Huánuco](https://user-images.githubusercontent.com/82337435/114319627-3c4d9000-9ae0-11eb-9f01-5f890d9a2afd.jpg)
 ![250px-Argentina_-_Buenos_Aires_-_Adolfo_Alsina svg](https://user-images.githubusercontent.com/82337435/114319660-6010d600-9ae0-11eb-8f3d-bfac6b02cb48.png)
 ### ----------------(The location Of The Four Argentavis Fossils Fossils)----------------
+
+## Fun Facts
+
+#### . Argentavis is Greek for Magnificent Argentine Bird. 
+#### . The argentavis lived in the Late Miocene over 6 million years ago. 
+#### . The Argentavis had a wingspan of 23 feet. 
+#### . When thinking of the Argentavis you'd think of an Enormous Wingspan and large legs and large feet.
+#### . The Argentavis had hollow bones filled with air to lighten up the argentavis enough to fly due to the immense weight of the argentavis .
