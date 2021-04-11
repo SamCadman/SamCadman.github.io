@@ -32,10 +32,20 @@ this up is the fact that animals of the argentavis size live to that age.
 ### The Argentavis Lifestyle
 
 There’s not much known about the day to day life of the Argentavis but this is the extent that is known.
-The argentavis would most likely fly around in search for rodents, animal babies, and other small animals. They were also known to live in South America. 
+The argentavis would most likely fly around in search for rodents, animal babies, and other small animals. They were also known to live in South America.
 They required roughly 10 pounds of meat every day so that would most likely spend a lot of time trying to suffice that need.
 They have a need, a need for meat! (It was bad quit your hate)
 
 ![9578475338050616](https://user-images.githubusercontent.com/82337435/114318869-edeac200-9adc-11eb-9e6e-05521c5481ce.jpg)
 
 ## All about the Argentavis’ habitat.
+
+The argentavis resided in the Skies of South America. To be more exact they were thought to have lived in Argentina.
+When the argentavis wasn’t flying through the skies it would be scavenging the rain forest and mountainous terrain.
+The argentavis adapted to the Argentinian environment as shown by the argentavis pelvic bone structure, the argentavis would have been quite agile.
+This is quite useful for travel in Argentina because they could climb up mountains with ease and weave through the dense argentinian forests.
+They were also built so they could travel long distances on land, unlike most birds which were and still are built more for air travel.
+
+![World-Data-Locator-Map-Argentina](https://user-images.githubusercontent.com/82337435/114319036-bc262b00-9add-11eb-93f4-32a5d3a87374.jpg)
+
+![download (1)](https://user-images.githubusercontent.com/82337435/114319046-c5af9300-9add-11eb-9640-8378d5eef0f0.jpeg)
