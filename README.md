@@ -3,10 +3,10 @@
 ## How did the Argentavis look and act?
 
 ### How It Looked
-Wingspan: 23 - 24 feet (estimate)
-Hight (when standing on the ground): 4 - 5 feet (estimate)
-Length (bill to tail): 11 feet (estimate)
-Weight: 15 - 200 LB (estimate)
+#### Wingspan: 23 - 24 feet (estimate)
+#### Hight (when standing on the ground): 4 - 5 feet (estimate)
+#### Length (bill to tail): 11 feet (estimate)
+#### Weight: 15 - 200 LB (estimate)
 
 ![700331256_3165fe3e84_w](https://user-images.githubusercontent.com/82337435/114318570-9435c800-9adb-11eb-9549-5cd7fa67e161.jpg)
 
