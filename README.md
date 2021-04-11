@@ -77,5 +77,5 @@ leaving it to starve to death.
 #### . Argentavis is Greek for Magnificent Argentine Bird. 
 #### . The argentavis lived in the Late Miocene over 6 million years ago. 
 #### . The Argentavis had a wingspan of 23 feet. 
-#### . When thinking of the Argentavis you'd think of an Enormous Wingspan and large legs and large feet.
-#### . The Argentavis had hollow bones filled with air to lighten up the argentavis enough to fly due to the immense weight of the argentavis .
+#### . To fly the argentavis used upward gusts of wind from cliffs to keep itself flying
+#### . The Argentavis had hollow bones filled with air to lighten up the argentavis enough to fly due to the immense weight of the argentavis.
