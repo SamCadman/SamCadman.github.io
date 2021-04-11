@@ -82,18 +82,21 @@ leaving it to starve to death.
 
 ## References, References, References!
 
-#### .
-[Here](https://www.thoughtco.com/overview-of-argentavis-1093574)
+#### --
+A Thoughtco article [here](https://www.thoughtco.com/overview-of-argentavis-1093574).
 
-#### .
-[Here](https://en.wikipedia.org/wiki/Argentavis)
+#### --
+A Wikipedia acticle [here](https://en.wikipedia.org/wiki/Argentavis).
 
-#### .
-[Here](https://fossil.fandom.com/wiki/Argentavis)
+#### --
+A Fossil Fandom [here](https://fossil.fandom.com/wiki/Argentavis).
 
-#### .
-[Here](http://news.bbc.co.uk/2/hi/science/nature/6262740.stm)
+#### --
+A BBC News article [here](http://news.bbc.co.uk/2/hi/science/nature/6262740.stm).
 
-#### .
-[Here](https://notexactlyrocketscience.wordpress.com/2007/07/08/argentavis-the-largest-flying-bird-was-a-master-glider/)
+#### --
+And a not Exactly Rocket Science article [here](https://notexactlyrocketscience.wordpress.com/2007/07/08/argentavis-the-largest-flying-bird-was-a-master-glider/).
 
+## About
+
+I created this project for science class. Thats about all I have to put in about. Have a good day or night.
