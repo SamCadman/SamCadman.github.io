@@ -101,4 +101,4 @@ And a not Exactly Rocket Science article [here](https://notexactlyrocketscience.
 
 I created this project for science class. Thats about all I have to put in about. Have a good day or night.
 
-
+![CARL AZUS](https://user-images.githubusercontent.com/82337435/114394074-c8a39580-9b68-11eb-905c-7e9de7fc1d69.PNG)
