@@ -64,9 +64,9 @@ leaving it to starve to death.
 
 ## Argentavis Fossils
 
- 4 fossils found throughout Argentina though there were other fossils.
+ In 2006 4 fossils found throughout Argentina though there were other fossils that could have been argentavis.
  Two fossils were found at the Andalhualá Formation near Catamarca in Valle de Santa Maria in the foothills of the Andes.
- A third was found in the Epecuén Formation, Carhué. Lastly  A fourth was found near Salinas Grandes de Hidalgo in the Argentinean pampas.
+ A third was found in the Epecuén Formation, Carhué. Lastly A fourth was found near Salinas Grandes de Hidalgo in the Argentinean pampas.
  
  ![Mexico_San_Luis_Potosi_Salinas_location_map svg](https://user-images.githubusercontent.com/82337435/114319606-25a73900-9ae0-11eb-8ed7-43a0c3851ec3.jpg) ![1200px-Ubicación_de_Santa_María_del_Valle_en_la_Provincia_de_Huánuco](https://user-images.githubusercontent.com/82337435/114319627-3c4d9000-9ae0-11eb-9f01-5f890d9a2afd.jpg)
 ![250px-Argentina_-_Buenos_Aires_-_Adolfo_Alsina svg](https://user-images.githubusercontent.com/82337435/114319660-6010d600-9ae0-11eb-8f3d-bfac6b02cb48.png)
@@ -100,3 +100,5 @@ And a not Exactly Rocket Science article [here](https://notexactlyrocketscience.
 ## About
 
 I created this project for science class. Thats about all I have to put in about. Have a good day or night.
+
+
