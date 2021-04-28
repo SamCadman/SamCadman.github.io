@@ -8,6 +8,7 @@
 #### Hight (when standing on the ground): 4 - 5 feet (estimate)
 #### Length (bill to tail): 11 feet (estimate)
 #### Weight: 15 - 200 LB (estimate)
+It looked like the vulture because it is a distant relative of the modern day vulture and stork.
 
 ![700331256_3165fe3e84_w](https://user-images.githubusercontent.com/82337435/114318570-9435c800-9adb-11eb-9549-5cd7fa67e161.jpg)
 
