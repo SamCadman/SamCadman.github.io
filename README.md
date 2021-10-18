@@ -1,6 +1,9 @@
 <html>
   <style>
     body {background-color: red;}
+    h1   {color: yellow;}
+    h3   {color: yellow;}
+    p   {color: yellow;}
     </style>
 <body>
 <h1>SUPRE RAD</h1>
