@@ -1,6 +1,6 @@
 <html>
   <style>
-    body {background-color: red;}
+    background-image: url('download (38).jpg');
     h1   {color: yellow;}
     h3   {color: yellow;}
     p   {color: yellow;}
