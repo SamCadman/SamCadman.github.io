@@ -7,20 +7,21 @@
     </style>
 <body>
   <img src="cooltext395686049788005.gif">
+  <br>
 <h1>SUPRE RAD</h1>
   <h3>Amiright</h3>
   <img src="bison-transparent-background.png" width="100">
-   
+   <br>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">click me</a>
   <pre style="color:yellow;">
     A poewm
-    
+    <br> 
     QWit th gob
     and get rthe nob
     hahahasasasas
     lal
     </pre>
-  
+  <br>
   <p style="border:2px solid Tomato;">Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
 </body>
 </html>
