@@ -21,7 +21,10 @@
     hahahasasasas
     lal
     </pre>
+  <br>
   <h1>STEAK</h1>
+  <a href="">
+  <img alt="STEAK" src="61QKhYL+eCL.png" width=200" height="200">
   <br>
   <p style="border:2px solid Tomato;">Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
   <img src="gnomed-gnome.gif" width="150">
