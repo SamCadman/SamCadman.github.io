@@ -1,7 +1,7 @@
 <html>
   <style>
     body{background-image: url('download (38).jpg');}
-    div{background-image: url('download (38).jpg');}
+    div{background-image: url('images (9).jpg');}
     h1   {color: yellow;}
     h3   {color: yellow;}
     p   {color: yellow;}
