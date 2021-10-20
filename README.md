@@ -7,7 +7,6 @@
     p   {color: yellow;}
     </style>
 <body>
-  <div id ="center"> 
   <img src="cooltext395686049788005.gif" class="center">
   <p>Pope approved</p>
   <img src="560559f39dd7cc18008bd064.jpg" width="25" height="25">
