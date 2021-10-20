@@ -31,6 +31,5 @@
   <img alt="STEAK" src="61QKhYL+eCL.png" width="200" height="200"></a>
   <br>
   <p>Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
-  <img src="gnomed-gnome.gif" width="150">
 </body>
 </html>
