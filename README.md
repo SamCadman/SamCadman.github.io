@@ -8,7 +8,9 @@
     </style>
 <body>
   <img src="cooltext395686049788005.gif" class="center">
-  <p>Pope approved</p>
+  <p>Pope approved <img src="560559f39dd7cc18008bd064.jpg" width="25" height="25" style="vertical-align:middle">
+  </p>
+  <br>
   <img src="560559f39dd7cc18008bd064.jpg" width="25" height="25">
   <br>
 <h1>SUPRE RAD</h1>
