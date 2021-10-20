@@ -1,5 +1,11 @@
 <html>
   <style>
+    img src="560559f39dd7cc18008bd064.jpg"{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
     body{background-image: url('download (38).jpg');}
     div{background-image: url('images (9).jpg');}
     h1   {color: yellow;}
@@ -29,7 +35,7 @@
   <a href="https://samcadman.github.io/download%20(37).jpg">
   <img alt="STEAK" src="61QKhYL+eCL.png" width="200" height="200"></a>
   <br>
-  <p style="border:2px solid Tomato;">Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
+  <p>Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
   <img src="gnomed-gnome.gif" width="150">
 </body>
 </html>
