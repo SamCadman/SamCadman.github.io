@@ -4,7 +4,14 @@
     div{background-image: url('images (9).jpg');}
     h1   {color: yellow;}
     h3   {color: yellow;}
-    p   {color: yellow;}
+    p {
+  animation: color-change 1s infinite;
+}
+
+@keyframes color-change {
+  0% { color: red; }
+  100% { color: yellow; }
+}
     </style>
 <body>
   <img src="cooltext395686049788005.gif" class="center">
