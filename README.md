@@ -1,8 +1,5 @@
 <html>
   <style>
-    header {
-  display: none;
-}
     body{background-image: url('download (38).jpg');}
     div{background-image: url('images (9).jpg');}
      pre {
