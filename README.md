@@ -2,6 +2,24 @@
   <style>
     body{background-image: url('download (38).jpg');}
     div{background-image: url('images (9).jpg');}
+     pre {
+  animation: color-change 1s infinite;
+}
+
+@keyframes color-change {
+  0% { color: red; }
+  10% { color: yellow; }
+  20% { color: red; }
+  30% { color: yellow; }
+  40% { color: red; }
+  50% { color: yellow; }
+  60% { color: red; }
+  70% { color: yellow; }
+  80% { color: red; }
+  90% { color: yellow; }
+  95% { color: red; }
+  100% { color: yellow; }
+}
      h1 {
   animation: color-change 1s infinite;
 }
