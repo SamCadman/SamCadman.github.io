@@ -10,8 +10,16 @@
 
 @keyframes color-change {
   0% { color: red; }
-  25% { color: yellow; }
-  50% { color: red; }
+  10% { color: yellow; }
+  20% { color: red; }
+  30% { color: yellow; }
+  40% { color: red; }
+  50% { color: yellow; }
+  60% { color: red; }
+  70% { color: yellow; }
+  80% { color: red; }
+  90% { color: yellow; }
+  95% { color: red; }
   100% { color: yellow; }
 }
     </style>
