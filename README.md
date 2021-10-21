@@ -5,23 +5,10 @@
     h1   {color: yellow;}
     h3   {color: yellow;}
     p   {color: yellow;}
-    .rainbow {
-  font-family: futura;
-
-  width:100%;
-
-  margin: 0 auto;
-  text-align: center;
-
-  color:#313131;
-  font-size:30px;
-  font-weight: bold;
-  -webkit-animation:colorchange 1.5s infinite alternate;
-}
     </style>
 <body>
   <img src="cooltext395686049788005.gif" class="center">
-  <p class="rainbow">Pope approved!!!11!!11!!11!!11!!!11!1111!!!!!!</p>
+  <p>Pope approved!!!11!!11!!11!!11!!!11!1111!!!!!!</p>
   <br>
   <p><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><p>
   <br>
