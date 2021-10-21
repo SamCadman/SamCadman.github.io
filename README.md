@@ -81,12 +81,12 @@
   <br>
   <p><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><img src="560559f39dd7cc18008bd064.jpg" width="25" height="25"><p>
   <br>
-<h1>SUPRE RAD</h1>
-  <h3>Amiright</h3>
+<h1 style="text-align:right;">SUPRE RAD</h1>
+  <h3 style="text-align:right;">Amiright</h3>
   <img src="bison-transparent-background.png" width="100">
    <br>
-  <a href="https://www.youtube.com/watch?v=xjS6Z8kztq8">click me</a>
-  <pre style="color:yellow;">
+  <a href="https://www.youtube.com/watch?v=xjS6Z8kztq8" style="text-align:right;">click me</a>
+  <pre style="text-align:right;">
     A poewm
     <br> 
     QWit th gob
@@ -95,11 +95,11 @@
     lal
     </pre>
   <br>
-  <h1>STEAK</h1>
+  <h1 style="text-align:right;">STEAK</h1>
   <a href="https://samcadman.github.io/download%20(37).jpg">
   <img alt="STEAK" src="61QKhYL+eCL.png" width="200" height="200"></a>
   <br>
-  <p>Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
+  <p style="text-align:right;">Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
   
 </body>
 </html>
