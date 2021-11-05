@@ -100,6 +100,11 @@
   <img alt="STEAK" src="61QKhYL+eCL.png" width="200" height="200"></a>
   <br>
   <p>Hey<sub>lol</sub><sup>hah</sup><b>mememe</b></p>
+  <audio id="idiot-audio" volume="1" auto-play="on" lo-op="true">
+        <source src="audio/idiot.mp3" type="audio/mp3">
+        <source src="audio/idiot.ogg" type="audio/ogg">
+        <source src="audio/idiot.wav" type="audio/wav">
+    </audio>
   
 </body>
 </html>
